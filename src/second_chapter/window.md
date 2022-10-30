@@ -13,7 +13,10 @@ height | 600
 title | "Blue Engine"
 decorations | true
 resizable | true
+power_preference | true
 
 * Decorations are the title bar and the borders that windows have. Setting it to false will remove them, which is also called borderless windowing.
 
 * Resizable is a setting that allows the windows to be resized or stay in a fixed size. Having this set to false will also disable maximize and minimize options.
+
+* Define how much power should the app ask for
